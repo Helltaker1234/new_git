@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+	int i = 1;
+	printf("%d", i);
+	printf("안녕하세요 ver 1 입니다.");
+
+	return 0;
+
+}
